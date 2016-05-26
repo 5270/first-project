@@ -1,3 +1,3 @@
 <?php
-echo "this is my frist project!";
+echo "This is my first project!";
 ?>
